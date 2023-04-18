@@ -7,11 +7,9 @@
 ---
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="20" height="20"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="20" height="20"/>&nbsp;
+  <img src="https://media.discordapp.net/attachments/1019844485187899422/1097817615130439771/html-5.png"  title="HTML" alt="HTML" width="35" height="35"/>&nbsp;
+  <img src="https://media.discordapp.net/attachments/1019844485187899422/1097817622835363850/css-3.png"  title="CSS" alt="CSS" width="35" height="35"/>&nbsp;
+  <img src="https://media.discordapp.net/attachments/1019844485187899422/1097818197719253102/javascript.png"  title="JS" alt="JS" width="35" height="35"/>&nbsp;
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BermX&theme=dark&hide_border=true)](https://git.io/streak-stats)
