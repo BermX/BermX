@@ -21,4 +21,4 @@
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bermx&show_icons=true&locale=en&layout=compact" alt="bermx" /></p> -->
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bermx&" alt="bermx" /></p>
+<h3 align="center"> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bermx&" alt="bermx" /></p> </h3>
