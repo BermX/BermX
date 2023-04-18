@@ -2,6 +2,8 @@
 
 - 🔭 กำลังมองหาอะไรหรอ 555555555555 ...
 
+![](https://komarev.com/ghpvc/?username=BermX&style=flat-square)
+
 ---
 
 <div>
